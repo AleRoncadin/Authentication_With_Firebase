@@ -12,16 +12,16 @@ Questa applicazione Flutter implementa un sistema di autenticazione con **Fireba
 ## Anteprima
 
 ### Login screen
-![Login](assets/login.png)
+![Login](login.png)
 
 ### Register screen
-![Register](assets/register.png)
+![Register](register.png)
 
 ### Home screen
-![Home](assets/home.png)
+![Home](home.png)
 
 ### Struttura Database Firebase
-![Database](assets/database.png)
+![Database](database.png)
 
 ---
 
