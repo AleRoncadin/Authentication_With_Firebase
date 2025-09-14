@@ -25,17 +25,17 @@ Tutti i file sorgente si trovano nella cartella `lib/`.
 
 lib/  
 │  
-├── main.dart --> Inizializzazione Firebase e schermata principale  
-├── login_screen.dart --> Login con email/password o Google  
-├── register_screen.dart --> Registrazione nuovi utenti  
-├── profile_screen.dart --> Schermata utente loggato  
-├── GoogleAuthentication.dart --> Funzione di login con Google  
+├── main.dart → Inizializzazione Firebase e schermata principale  
+├── login_screen.dart → Login con email/password o Google  
+├── register_screen.dart → Registrazione nuovi utenti  
+├── profile_screen.dart → Schermata utente loggato  
+├── GoogleAuthentication.dart → Funzione di login con Google  
 │  
 ├── widgets/  
-│ ├── alertDialog.dart --> Messaggi di errore/successo  
-│ ├── buildTitle.dart --> Titoli schermate  
-│ ├── button.dart --> Pulsanti personalizzati  
-│ ├── textField.dart --> Input personalizzati  
-│ └── textdisplay.dart --> Testo personalizzato  
+│ ├── alertDialog.dart → Messaggi di errore/successo  
+│ ├── buildTitle.dart → Titoli schermate  
+│ ├── button.dart → Pulsanti personalizzati  
+│ ├── textField.dart → Input personalizzati  
+│ └── textdisplay.dart → Testo personalizzato  
 │  
-└── generated_plugin_registrant.dart --> Integrazione plugin Web Firebase  
+└── generated_plugin_registrant.dart → Integrazione plugin Web Firebase  
